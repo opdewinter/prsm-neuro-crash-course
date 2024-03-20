@@ -13,7 +13,10 @@ This is a repository for the PRSM neuroimaging crash course.
 - cluster
 
 ## Participants
+- put your name here
 - Lisa
+- Marijke
+- Olivier
 
 ## Homework
 ### Homework for session 2 (06-03):
