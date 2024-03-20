@@ -1,4 +1,5 @@
-# PRSM neuroimaging crash course
+
+ PRSM neuroimaging crash course
 
 This is a repository for the PRSM neuroimaging crash course.
 
@@ -13,6 +14,7 @@ This is a repository for the PRSM neuroimaging crash course.
 
 ## Participants
 - put your name here
+- Lisa
 - Marijke
 - Olivier
 
@@ -32,3 +34,4 @@ This is a repository for the PRSM neuroimaging crash course.
 - go to the nilearn tutorial examples and look at them
   - optional: if you feel comfortable, play around with one (or many) of the examples
   - optional: if you learn something cool, report back to the group
+t
