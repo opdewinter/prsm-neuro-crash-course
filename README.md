@@ -35,4 +35,9 @@ This is a repository for the PRSM neuroimaging crash course.
 - go to the nilearn tutorial examples and look at them
   - optional: if you feel comfortable, play around with one (or many) of the examples
   - optional: if you learn something cool, report back to the group
-t
+
+### Homework for session 2 (10-04):
+- what happens to connectivity if we do not control for confounds?
+- start from 'nilearn first steps.ipynb'
+- in the notebook at the end, we produced a connectivity matrix
+- try to do the same thing, but this time not accounting for any confounds
